@@ -1,0 +1,11 @@
+{
+  "name": "ecommerce-research",
+  "version": "1.0.0",
+  "description": "E-commerce behavioral research platform",
+  "scripts": {
+    "start": "servor --reload"
+  },
+  "dependencies": {
+    "servor": "^4.0.2"
+  }
+}
