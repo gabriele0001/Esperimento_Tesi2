@@ -335,8 +335,8 @@ const products = {
           "text": "Buon rapporto qualità-prezzo."
         }
       ]
-    },
-
+    }
+  ],
   "powerbanks": [
     {
       "id": "p1",
