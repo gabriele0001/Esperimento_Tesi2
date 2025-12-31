@@ -208,8 +208,8 @@ const products = {
           "text": "Buon rapporto qualità-prezzo."
         }
       ]
-    },
-    
+    }
+],  
   "covers": [
     {
       "id": "c1",
