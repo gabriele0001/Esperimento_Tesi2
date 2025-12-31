@@ -209,7 +209,7 @@ const products = {
         }
       ]
     }
-],  
+ ],  
   "covers": [
     {
       "id": "c1",
